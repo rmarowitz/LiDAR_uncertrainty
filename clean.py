@@ -7,7 +7,6 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 import rasterstats as rs
 import xarray as xr
-import rioxarray as rxr
 import seaborn as sns
 
 class NEONDataLoader(object):
